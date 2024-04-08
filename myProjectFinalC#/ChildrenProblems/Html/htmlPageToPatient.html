@@ -1,0 +1,155 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>הודעה לנהג</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            border: none;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: center;
+            color: black !important;
+            font-size: medium;
+        }
+
+        th {
+            background-color: #f2f2f2;
+            color: #f2a421 !important;
+            font-size: 20px;
+        }
+
+        .im {
+            color: #000000;
+        }
+
+        .logo {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+            .logo img {
+                max-width: 200px;
+            }
+
+        .message {
+            padding: 20px;
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        .im {
+            color: #000;
+        }
+
+        .signature {
+            font-size: 14px;
+            text-align: center;
+            color: #888;
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        a {
+            color: #15a399 !important;
+            text-decoration: none;
+            font-size: 18px;
+        }
+
+            a: hover {
+                color: #15a399 !important;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <a href="http://localhost:3000/"><img src="https://drive.google.com/uc?export=view&id=1rbqC4OpBh7iLSu2G5lcYuP96apaz3xHT" alt="לוגו האתר"></a>
+        </div>
+        <div class="message">
+            <table>
+                <tr>
+                    <th colspan="2">הודעה למטופל</th>
+                </tr>
+                <tr>
+                    <td>
+                        -  שלום לך   {namePatient}<br />מחכה לך הודעה מאת המטפל  {nameT}
+                        <strong></strong><br />לצפיה בהודעה יש להיכנס לאיזור האישי
+                        <br /> !צוות יעדים-הדרך להצלחה<br />
+                    </td>
+
+                </tr>
+            </table>
+        </div>
+        <div class="signature">
+            <table>
+                <tr>
+                    <th colspan="2">:פרטים ליצירת קשר</th>
+                </tr>
+                <tr>
+                    <td>
+                        <i class="fa fa-phone"></i>
+                        <a href="http://localhost:3000/">לכניסה לאתר</a>
+
+                    </td>
+                </tr>
+                <tr>
+
+                    <td>
+                        <i class="fa fa-envelope"></i>
+                        <i class="fa-solid fa-envelope" style="font-size:24px"></i>
+
+                        <a href="mailto:yeadim.success@gmail.com">
+                            yeadim.success@gmail.com
+                        </a>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        <i class="fa fa-phone"></i>
+                        <i class="fa fa-phone" style="font-size:24px"></i>
+
+
+                        <a href="tel:0583255128">058.325.5128</a>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        <i class="fa fa-whatsapp"></i>
+                        <i class="fa fa-whatsapp" style="font-size:24px"></i>
+
+                        <a href="https://web.whatsapp.com/send?phone=972583255128" target="_blank">+972-583-255-128</a>
+                    </td>
+
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

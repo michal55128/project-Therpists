@@ -1,0 +1,555 @@
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\appsettings.json
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.exe
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.deps.json
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.pdb
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.ChildrenProblems.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.build.ChildrenProblems.props
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChildrenProblems.props
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChildrenProblems.props
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\scopedcss\bundle\ChildrenProblems.styles.css
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.CopyComplete
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\refint\ChildrenProblems.dll
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.pdb
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\projectApi\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ref\ChildrenProblems.dll
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.AssemblyReference.cache
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.GeneratedMSBuildEditorConfig.editorconfig
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.AssemblyInfoInputs.cache
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.AssemblyInfo.cs
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.CoreCompileInputs.cache
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.MvcApplicationPartsAssemblyInfo.cs
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.MvcApplicationPartsAssemblyInfo.cache
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.dll
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\refint\ChildrenProblems.dll
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.pdb
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\appsettings.Development.json
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\appsettings.json
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.exe
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.deps.json
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.runtimeconfig.json
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.pdb
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\AutoMapper.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Humanizer.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Common.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\DataContext.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Repository.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Service.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\DataContext.pdb
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Service.pdb
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Common.pdb
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Repository.pdb
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.ChildrenProblems.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.build.ChildrenProblems.props
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChildrenProblems.props
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChildrenProblems.props
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets.pack.json
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets.build.json
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets.development.json
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\scopedcss\bundle\ChildrenProblems.styles.css
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.CopyComplete
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.genruntimeconfig.cache
+E:\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ref\ChildrenProblems.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\libman.json
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Mock.dll
+E:\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Mock.pdb
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\refint\ChildrenProblems.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.pdb
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\appsettings.json
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\libman.json
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.exe
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.deps.json
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.pdb
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Humanizer.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Common.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\DataContext.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Repository.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Service.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\DataContext.pdb
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Service.pdb
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Common.pdb
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Repository.pdb
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.ChildrenProblems.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.build.ChildrenProblems.props
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChildrenProblems.props
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChildrenProblems.props
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\scopedcss\bundle\ChildrenProblems.styles.css
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.CopyComplete
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ref\ChildrenProblems.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\appsettings.Development.json
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\appsettings.json
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\libman.json
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.exe
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.deps.json
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.runtimeconfig.json
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.pdb
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\AutoMapper.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Humanizer.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Common.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\DataContext.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Repository.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Service.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\DataContext.pdb
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Service.pdb
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Common.pdb
+E:\update-project\ChildrenProblems\ChildrenProblems\bin\Debug\net6.0\Repository.pdb
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.AssemblyReference.cache
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.GeneratedMSBuildEditorConfig.editorconfig
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.AssemblyInfoInputs.cache
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.AssemblyInfo.cs
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.CoreCompileInputs.cache
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.MvcApplicationPartsAssemblyInfo.cs
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.MvcApplicationPartsAssemblyInfo.cache
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.ChildrenProblems.Microsoft.AspNetCore.StaticWebAssets.props
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.build.ChildrenProblems.props
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChildrenProblems.props
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChildrenProblems.props
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets.pack.json
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets.build.json
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\staticwebassets.development.json
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\scopedcss\bundle\ChildrenProblems.styles.css
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.CopyComplete
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\refint\ChildrenProblems.dll
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.pdb
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.genruntimeconfig.cache
+E:\update-project\ChildrenProblems\ChildrenProblems\obj\Debug\net6.0\ref\ChildrenProblems.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\appsettings.json
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\libman.json
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.exe
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.deps.json
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.runtimeconfig.json
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Humanizer.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Common.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\DataContext.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Repository.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Service.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\DataContext.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Service.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Common.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Repository.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.ChildrenProblems.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.build.ChildrenProblems.props
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChildrenProblems.props
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChildrenProblems.props
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\scopedcss\bundle\ChildrenProblems.styles.css
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.CopyComplete
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\refint\ChildrenProblems.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ref\ChildrenProblems.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\MailKit.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\MimeKit.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Html\htmlPageToEmail.html
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Html\htmlPageToPatient.html
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\appsettings.json
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.exe
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Html\htmlPageToEmail.html
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Html\htmlPageToPatient.html
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.deps.json
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.runtimeconfig.json
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.pdb
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Humanizer.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\MailKit.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\MimeKit.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Common.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\DataContext.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Repository.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Service.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\DataContext.pdb
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Service.pdb
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Common.pdb
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\bin\Debug\net6.0\Repository.pdb
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.ChildrenProblems.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.build.ChildrenProblems.props
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChildrenProblems.props
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChildrenProblems.props
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\scopedcss\bundle\ChildrenProblems.styles.css
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.CopyComplete
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\refint\ChildrenProblems.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.pdb
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Documents\myProjectFinal\ChildrenProblems\obj\Debug\net6.0\ref\ChildrenProblems.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\appsettings.json
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.exe
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Html\htmlPageToEmail.html
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Html\htmlPageToPatient.html
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.deps.json
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.runtimeconfig.json
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\ChildrenProblems.pdb
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Humanizer.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\MailKit.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\MimeKit.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Common.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\DataContext.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Repository.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Service.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\DataContext.pdb
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Service.pdb
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Common.pdb
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\bin\Debug\net6.0\Repository.pdb
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.ChildrenProblems.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.build.ChildrenProblems.props
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChildrenProblems.props
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChildrenProblems.props
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\scopedcss\bundle\ChildrenProblems.styles.css
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.csproj.CopyComplete
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\refint\ChildrenProblems.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.pdb
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\ChildrenProblems.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\ChildrenProblems\obj\Debug\net6.0\ref\ChildrenProblems.dll

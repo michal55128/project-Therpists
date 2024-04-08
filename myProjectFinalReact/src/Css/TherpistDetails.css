@@ -1,0 +1,113 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    /* margin: 10% auto; */
+    /* background-color: #fff; */
+    padding: 20px;
+    border-radius: 8px;
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.row h3 {
+    width: 100%;
+    text-align: center;
+}
+
+form {
+    width: 100%;
+}
+
+.row {
+    max-width: 50%;
+    max-height: 100%;
+    margin: 10% auto; 
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    padding: 10px;
+    border: 1px solid black;
+    transition: background-color 0.3s ease;
+    top: 65%;
+    left: 24%;
+    padding: 30px;
+    /* box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px; */
+    width: 750px;
+    max-width: 80%;
+    align-items: center;
+    position: relative;
+}
+
+/* .row > *:hover {
+    transform: scale(1.1); 
+} */
+.column {
+    flex: 1;
+}
+
+.label {
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: black;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.file-input-container {
+    margin-bottom: 15px;
+}
+
+.error-message {
+    color: #15a399;
+    margin-top: 5px;
+}
+
+.btnOk {
+    color: #15a399; 
+    padding: 12px 20px;
+    cursor: pointer;
+    border: 2px solid #15a399;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+.title{
+    color: #128c7e;
+}
+.btn:hover {
+    background-color: #128c7e;
+}
+
+.add-image-btn {
+    color: white;
+    background-color: #15a399;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.basic-multi-select {
+    width: 100%;
+    margin-bottom: 15px;
+}

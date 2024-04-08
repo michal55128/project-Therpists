@@ -1,0 +1,29 @@
+.logo-l {
+    width: 12%;
+  }
+  
+  header.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation4.MuiAppBar-root.MuiAppBar-colorWhite.MuiAppBar-positionStatic.css-124b1rs-MuiPaper-root-MuiAppBar-root {
+    margin-bottom: 0 !important;
+  }
+  
+  .navBar-con {
+    width: 100% !important;
+    margin-left: 0px !important;
+    box-sizing: border-box;
+    margin-right: 0px !important;
+    display: block;
+    padding-left: 16px;
+    padding-right: 16px;
+    direction: rtl;
+    background-color: #311e1b;
+    min-width: 100% !important;
+  }/*# sourceMappingURL=NavBar.css.map */
+  
+  .personalArea{
+    /* position: relative; */
+    display: inline;
+    display: flex;
+    flex-direction: column;
+    left: 100%;
+    right: 0%;
+  }

@@ -1,0 +1,90 @@
+E:\ChildrenProblems\DataContext\bin\Debug\net6.0\DataContext.deps.json
+E:\ChildrenProblems\DataContext\bin\Debug\net6.0\DataContext.dll
+E:\ChildrenProblems\DataContext\bin\Debug\net6.0\DataContext.pdb
+E:\ChildrenProblems\DataContext\bin\Debug\net6.0\Repository.dll
+E:\ChildrenProblems\DataContext\bin\Debug\net6.0\Repository.pdb
+E:\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+E:\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+E:\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+E:\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+E:\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+E:\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.dll
+E:\ChildrenProblems\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+E:\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.pdb
+E:\ChildrenProblems\DataContext\obj\Debug\net6.0\ref\DataContext.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\DataContext\bin\Debug\net6.0\DataContext.deps.json
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\DataContext\bin\Debug\net6.0\DataContext.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\DataContext\bin\Debug\net6.0\DataContext.pdb
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\DataContext\bin\Debug\net6.0\Repository.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\DataContext\bin\Debug\net6.0\Repository.pdb
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.pdb
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\DataContext\obj\Debug\net6.0\ref\DataContext.dll
+E:\update-project\ChildrenProblems\DataContext\bin\Debug\net6.0\DataContext.deps.json
+E:\update-project\ChildrenProblems\DataContext\bin\Debug\net6.0\DataContext.dll
+E:\update-project\ChildrenProblems\DataContext\bin\Debug\net6.0\DataContext.pdb
+E:\update-project\ChildrenProblems\DataContext\bin\Debug\net6.0\Repository.dll
+E:\update-project\ChildrenProblems\DataContext\bin\Debug\net6.0\Repository.pdb
+E:\update-project\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+E:\update-project\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\update-project\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+E:\update-project\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+E:\update-project\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+E:\update-project\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+E:\update-project\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.dll
+E:\update-project\ChildrenProblems\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+E:\update-project\ChildrenProblems\DataContext\obj\Debug\net6.0\DataContext.pdb
+E:\update-project\ChildrenProblems\DataContext\obj\Debug\net6.0\ref\DataContext.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\DataContext\bin\Debug\net6.0\DataContext.deps.json
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\DataContext\bin\Debug\net6.0\DataContext.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\DataContext\bin\Debug\net6.0\DataContext.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\DataContext\bin\Debug\net6.0\Repository.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\DataContext\bin\Debug\net6.0\Repository.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\DataContext\obj\Debug\net6.0\DataContext.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\DataContext\obj\Debug\net6.0\DataContext.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\DataContext\obj\Debug\net6.0\ref\DataContext.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\DataContext\bin\Debug\net6.0\DataContext.deps.json
+C:\Users\micha\OneDrive\Documents\myProjectFinal\DataContext\bin\Debug\net6.0\DataContext.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\DataContext\bin\Debug\net6.0\DataContext.pdb
+C:\Users\micha\OneDrive\Documents\myProjectFinal\DataContext\bin\Debug\net6.0\Repository.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\DataContext\bin\Debug\net6.0\Repository.pdb
+C:\Users\micha\OneDrive\Documents\myProjectFinal\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\myProjectFinal\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Documents\myProjectFinal\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documents\myProjectFinal\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\myProjectFinal\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\myProjectFinal\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+C:\Users\micha\OneDrive\Documents\myProjectFinal\DataContext\obj\Debug\net6.0\DataContext.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\DataContext\obj\Debug\net6.0\DataContext.pdb
+C:\Users\micha\OneDrive\Documents\myProjectFinal\DataContext\obj\Debug\net6.0\ref\DataContext.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\DataContext\bin\Debug\net6.0\DataContext.deps.json
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\DataContext\bin\Debug\net6.0\DataContext.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\DataContext\bin\Debug\net6.0\DataContext.pdb
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\DataContext\bin\Debug\net6.0\Repository.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\DataContext\bin\Debug\net6.0\Repository.pdb
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\DataContext\obj\Debug\net6.0\DataContext.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\DataContext\obj\Debug\net6.0\DataContext.pdb
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\DataContext\obj\Debug\net6.0\ref\DataContext.dll

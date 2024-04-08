@@ -1,0 +1,45 @@
+.home {
+    background-color: #d7d5c8;
+
+}
+
+.smaller-input {
+    width: 150px;
+    text-align: right;
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    text-align: center;
+    justify-content: flex-end;
+
+    flex-direction: row-reverse;
+
+}
+
+.search-button-all {
+    order: 1;
+    /* background-color: black; */
+    color: white;
+    border: none;
+    border-radius: 30px;
+    padding: 13px 20px;
+    cursor: pointer;
+    margin-left: 55px;
+    position: absolute;
+    left: -2px;
+    color: #fff;
+
+}
+
+.navbar-nav {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.search-bar button {
+    margin-left: 25%;
+
+}

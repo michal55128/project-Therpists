@@ -1,0 +1,178 @@
+.display-content-container {
+    margin: 0 auto;
+}
+
+.content-section {
+    margin-top: 20px;
+}
+
+
+ul {
+    padding: 0;
+    direction: rtl;
+    right: 25%;
+}
+
+li {
+    direction: rtl;
+    margin-bottom: 5px;
+}
+
+/* DisplayContentComponent.css */
+
+.display-content-container {
+    /* max-width: 800px; */
+    margin: 0 auto;
+    /* display: flex; */
+    /* justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row */
+}
+
+.content-section {
+    margin-top: 20px;
+    color: #f2a421;
+}
+
+
+.domains-container,
+.categories-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.domain,
+.category {
+    flex: 1;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease-in-out;
+}
+
+.domain:hover,
+.category:hover {
+    background-color: #e0e0e0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.backgaound {
+    background-color: #333;
+    width: 500%;
+    height: 500%;
+
+    background: '#04070b';
+    color: '#fff';
+    padding: '60px 0';
+    width: '100% !important';
+    max-width: '100% !important';
+    text-align: 'center';
+    margin-top: '50px';
+
+
+}
+
+li {
+    margin-bottom: 5px;
+
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+    text-transform: none;
+    text-indent: 0px !important;
+
+
+}
+
+
+.content-section {
+    /* display: flex; */
+    right: 0;
+
+}
+
+.domain-section {
+    right: 25%;
+}
+
+
+.display-content-container {
+    margin: 0 auto;
+}
+
+.h1titleMain {
+    text-align: center;
+    color: #f2a421 !important;
+}
+
+.h3title {
+    color: #15a399;
+    margin-bottom: 5px;
+}
+
+.allCategory {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.domain-section {
+    flex-basis: calc(50% - 10px);
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.35s ease-in-out;
+}
+
+.domain-section:hover {
+    background-color: rgba(0, 0, 0, 0.055);
+}
+
+ul {
+    padding: 0;
+    direction: rtl;
+}
+
+li {
+    margin-bottom: 5px;
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+    text-transform: none;
+    text-indent: 0px !important;
+}
+
+@media (min-width: 600px) {
+    .allCategory {
+        justify-content: space-between;
+    }
+
+    .domain-section {
+        flex-basis: calc(50% - 10px);
+    }
+}
+
+.topCategory {
+    margin-top: 20px;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+
+}
+
+.topCategory br {
+    display: none;
+}
+
+.topCategory strong {
+    /* color: black; */
+    font-weight: bold;
+}

@@ -1,0 +1,39 @@
+.my-profile-therapist-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.heading {
+    font-size: 2em;
+    color: #333;
+}
+
+.message {
+    font-size: 1.2em;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.buttons-container {
+    margin-top: 30px;
+}
+
+.register-button,
+.login-button {
+    display: inline-block;
+    margin: 0 10px;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 16px;
+    color: #fff;
+    background-color: #f2a421;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.register-button:hover,
+.login-button:hover {
+    background-color:#7cd3cd;
+}

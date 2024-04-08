@@ -1,0 +1,102 @@
+E:\ChildrenProblems\Service\bin\Debug\net6.0\Service.deps.json
+E:\ChildrenProblems\Service\bin\Debug\net6.0\Service.dll
+E:\ChildrenProblems\Service\bin\Debug\net6.0\Service.pdb
+E:\ChildrenProblems\Service\bin\Debug\net6.0\Common.dll
+E:\ChildrenProblems\Service\bin\Debug\net6.0\Repository.dll
+E:\ChildrenProblems\Service\bin\Debug\net6.0\Common.pdb
+E:\ChildrenProblems\Service\bin\Debug\net6.0\Repository.pdb
+E:\ChildrenProblems\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+E:\ChildrenProblems\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\ChildrenProblems\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+E:\ChildrenProblems\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+E:\ChildrenProblems\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+E:\ChildrenProblems\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+E:\ChildrenProblems\Service\obj\Debug\net6.0\Service.dll
+E:\ChildrenProblems\Service\obj\Debug\net6.0\refint\Service.dll
+E:\ChildrenProblems\Service\obj\Debug\net6.0\Service.pdb
+E:\ChildrenProblems\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Service\bin\Debug\net6.0\Service.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Service\bin\Debug\net6.0\Common.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Service\bin\Debug\net6.0\Common.pdb
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Service\obj\Debug\net6.0\Service.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Service\obj\Debug\net6.0\ref\Service.dll
+E:\update-project\ChildrenProblems\Service\bin\Debug\net6.0\Service.deps.json
+E:\update-project\ChildrenProblems\Service\bin\Debug\net6.0\Service.dll
+E:\update-project\ChildrenProblems\Service\bin\Debug\net6.0\Service.pdb
+E:\update-project\ChildrenProblems\Service\bin\Debug\net6.0\Common.dll
+E:\update-project\ChildrenProblems\Service\bin\Debug\net6.0\Repository.dll
+E:\update-project\ChildrenProblems\Service\bin\Debug\net6.0\Common.pdb
+E:\update-project\ChildrenProblems\Service\bin\Debug\net6.0\Repository.pdb
+E:\update-project\ChildrenProblems\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+E:\update-project\ChildrenProblems\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\update-project\ChildrenProblems\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+E:\update-project\ChildrenProblems\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+E:\update-project\ChildrenProblems\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+E:\update-project\ChildrenProblems\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+E:\update-project\ChildrenProblems\Service\obj\Debug\net6.0\Service.dll
+E:\update-project\ChildrenProblems\Service\obj\Debug\net6.0\refint\Service.dll
+E:\update-project\ChildrenProblems\Service\obj\Debug\net6.0\Service.pdb
+E:\update-project\ChildrenProblems\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Service\bin\Debug\net6.0\Service.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Service\bin\Debug\net6.0\Common.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Service\bin\Debug\net6.0\Common.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Service\obj\Debug\net6.0\Service.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Service\bin\Debug\net6.0\Service.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Service\bin\Debug\net6.0\Common.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Service\bin\Debug\net6.0\Common.pdb
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Service\obj\Debug\net6.0\Service.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Service\bin\Debug\net6.0\Service.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Service\bin\Debug\net6.0\Common.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Service\bin\Debug\net6.0\Common.pdb
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Service\obj\Debug\net6.0\Service.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Service\obj\Debug\net6.0\ref\Service.dll

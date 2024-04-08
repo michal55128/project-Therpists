@@ -1,0 +1,71 @@
+/* .css-1uqa3bt-MuiTypography-root { */
+/* margin: 0;
+    font-family: assistant, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5; */
+/* display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: stretch;
+    justify-content: center;
+    align-items: center; */
+/* } */
+
+/* 
+.col-md-6 {
+    width: 50%;
+    display: flex;
+}
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1* var(--bs-gutter-y));
+    margin-right: calc(-.5* var(--bs-gutter-x));
+    margin-left: calc(-.5* var(--bs-gutter-x));
+    width: 35%;
+    right: 25% !important;
+    /* height: vh; */
+
+/* } */
+
+.css-10kf5w8 {
+  background-color: rgb(247, 247, 247);
+}
+/* div#vertical-tabpanel-2 {
+    width: 100%;
+} */
+/* .css-1uqa3bt-MuiTypography-root {
+    margin: 0;
+    font-family: assistant, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    width: 100%;
+} */
+/* .css-heg063-MuiTabs-flexContainer { */
+/* display: -webkit-box; */
+/* display: -webkit-flex; */
+/* display: -ms-flexbox; */
+/* display: flex; */
+/* } */
+/* .css-13i4rnv-MuiGrid-root {
+    box-sizing: border-box;
+    margin: 5%;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+} */
+/* .css-13xfq8m-MuiTabPanel-root {
+    padding: 24px;
+    box-sizing: border-box;
+    margin: 5%;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+} */
+.css-bx3u0b-MuiPaper-root-MuiCard-root {
+  min-width: 720px;
+}

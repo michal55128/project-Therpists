@@ -1,0 +1,32 @@
+
+
+/* .img{
+    width: 500px;
+    height: inherit;
+    top:0;
+    left:0;
+    position: absolute;
+} */
+img#logo{
+    /* width: 200px; */
+    height: inherit;
+    top:1%;
+    left:2%;
+    position: absolute;
+}
+input {
+    margin-right: 25%;
+    margin-left: 50%;
+    box-shadow: #074c5a;
+    top:25%;
+
+
+}
+.smaller-input {
+    width: 15px; 
+    text-align: right;
+}
+.start{
+    position: fixed;
+    top: 15%;
+}

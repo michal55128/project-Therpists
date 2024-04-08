@@ -1,0 +1,30 @@
+.containerQ{
+    display: grid;
+    /* grid-template-columns: 0.5fr 3fr 0.5fr; */
+    margin: 1% ;
+    position: fixed; 
+    direction: rtl;
+    text-align: center;
+    top: 30%;
+    /* background-image: url("../Assets/images/girl.jpeg"); */
+    background-repeat: no-repeat; 
+       color:#f2a421 ;
+       /* background-color: #c0c0c0cb; */
+       left: 15%;
+       right: 15%;
+   
+}
+
+.number{
+    color:#f2a421;
+    font-weight: 700;
+    margin-left: 2%;
+    text-shadow:0px 1px 2px rgba(0, 0, 0, 0.5);
+}
+#imgGirl{
+    text-align: center;
+    width: unset;
+    position: relative;
+    height: 19vh;
+
+}

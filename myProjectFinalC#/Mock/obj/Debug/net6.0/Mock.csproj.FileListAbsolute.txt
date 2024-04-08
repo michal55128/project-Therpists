@@ -1,0 +1,15 @@
+E:\ChildrenProblems\Mock\bin\Debug\net6.0\Mock.deps.json
+E:\ChildrenProblems\Mock\bin\Debug\net6.0\Mock.dll
+E:\ChildrenProblems\Mock\bin\Debug\net6.0\Mock.pdb
+E:\ChildrenProblems\Mock\bin\Debug\net6.0\Repository.dll
+E:\ChildrenProblems\Mock\bin\Debug\net6.0\Repository.pdb
+E:\ChildrenProblems\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+E:\ChildrenProblems\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+E:\ChildrenProblems\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+E:\ChildrenProblems\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+E:\ChildrenProblems\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+E:\ChildrenProblems\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+E:\ChildrenProblems\Mock\obj\Debug\net6.0\Mock.dll
+E:\ChildrenProblems\Mock\obj\Debug\net6.0\refint\Mock.dll
+E:\ChildrenProblems\Mock\obj\Debug\net6.0\Mock.pdb
+E:\ChildrenProblems\Mock\obj\Debug\net6.0\ref\Mock.dll

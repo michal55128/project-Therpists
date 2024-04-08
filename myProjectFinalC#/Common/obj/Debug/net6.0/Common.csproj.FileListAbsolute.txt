@@ -1,0 +1,72 @@
+E:\ChildrenProblems\Common\bin\Debug\net6.0\Common.deps.json
+E:\ChildrenProblems\Common\bin\Debug\net6.0\Common.dll
+E:\ChildrenProblems\Common\bin\Debug\net6.0\Common.pdb
+E:\ChildrenProblems\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+E:\ChildrenProblems\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\ChildrenProblems\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+E:\ChildrenProblems\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+E:\ChildrenProblems\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+E:\ChildrenProblems\Common\obj\Debug\net6.0\Common.dll
+E:\ChildrenProblems\Common\obj\Debug\net6.0\refint\Common.dll
+E:\ChildrenProblems\Common\obj\Debug\net6.0\Common.pdb
+E:\ChildrenProblems\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Common\bin\Debug\net6.0\Common.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Common\obj\Debug\net6.0\Common.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\micha\OneDrive\Desktop\ChildrenProblems\Common\obj\Debug\net6.0\ref\Common.dll
+E:\update-project\ChildrenProblems\Common\bin\Debug\net6.0\Common.deps.json
+E:\update-project\ChildrenProblems\Common\bin\Debug\net6.0\Common.dll
+E:\update-project\ChildrenProblems\Common\bin\Debug\net6.0\Common.pdb
+E:\update-project\ChildrenProblems\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+E:\update-project\ChildrenProblems\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\update-project\ChildrenProblems\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+E:\update-project\ChildrenProblems\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+E:\update-project\ChildrenProblems\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+E:\update-project\ChildrenProblems\Common\obj\Debug\net6.0\Common.dll
+E:\update-project\ChildrenProblems\Common\obj\Debug\net6.0\refint\Common.dll
+E:\update-project\ChildrenProblems\Common\obj\Debug\net6.0\Common.pdb
+E:\update-project\ChildrenProblems\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Common\bin\Debug\net6.0\Common.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Common\obj\Debug\net6.0\Common.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\micha\OneDrive\Documents\GitHub\myProjectFinal\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Common\bin\Debug\net6.0\Common.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Common\obj\Debug\net6.0\Common.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\micha\OneDrive\Documents\myProjectFinal\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Common\bin\Debug\net6.0\Common.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Common\obj\Debug\net6.0\Common.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\micha\OneDrive\Documents\פרויקט C#+React\myProjectFinalC#\Common\obj\Debug\net6.0\ref\Common.dll
